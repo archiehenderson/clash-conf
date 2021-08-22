@@ -1,6 +1,6 @@
 # LG TV
-DOMAIN-SUFFIX,lgtvsdp.com,SG-select
-DOMAIN-SUFFIX,lge.com,SG-select
-DOMAIN-SUFFIX,lgsmartad.com,SG-select
-DOMAIN-SUFFIX,ytimg.com,SG-select
-DOMAIN-SUFFIX,lgtvcommon.com,SG-select
+DOMAIN-SUFFIX,lgtvsdp.com
+DOMAIN-SUFFIX,lge.com
+DOMAIN-SUFFIX,lgsmartad.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,lgtvcommon.com
