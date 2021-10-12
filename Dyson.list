@@ -1,1 +1,15 @@
-IP-CIDR,52.114.46.54/32
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,ariba.com
+DOMAIN-SUFFIX,cloudapp.azure.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,office365.com
+IP-CIDR,52.112.0.0/14
+IP-CIDR,52.111.0.0/16
