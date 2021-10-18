@@ -1,4 +1,7 @@
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,microsoftazuread-sso.com 
+DOMAIN-SUFFIX,sharepointonline.com 
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,ariba.com
