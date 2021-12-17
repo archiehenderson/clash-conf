@@ -1,4 +1,11 @@
+DOMAIN-SUFFIX,microsoftstream.com
+DOMAIN-SUFFIX,concursolutions.com
+DOMAIN-SUFFIX,myworkday.com 
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,microsoftazuread-sso.com 
+DOMAIN-SUFFIX,sharepointonline.com 
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,ariba.com
@@ -13,3 +20,6 @@ DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,office365.com
 IP-CIDR,52.112.0.0/14
 IP-CIDR,52.111.0.0/16
+DOMAIN-SUFFIX,powerapps.com
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,pa-static-ms.azureedge.net
