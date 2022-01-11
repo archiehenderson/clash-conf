@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,pa-static-ms.azureedge.net
 DOMAIN-SUFFIX,logmeinrescue-enterprise.com
 DOMAIN-SUFFIX,cybereason.net
 DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,jamfcloud.com
+DOMAIN-SUFFIX,duosecurity.com
 
 IP-CIDR,52.112.0.0/14
 IP-CIDR,52.111.0.0/16
