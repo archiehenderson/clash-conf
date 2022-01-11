@@ -18,8 +18,14 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,office365.com
-IP-CIDR,52.112.0.0/14
-IP-CIDR,52.111.0.0/16
 DOMAIN-SUFFIX,powerapps.com
 DOMAIN-SUFFIX,msocdn.com
 DOMAIN-SUFFIX,pa-static-ms.azureedge.net
+DOMAIN-SUFFIX,logmeinrescue-enterprise.com
+DOMAIN-SUFFIX,cybereason.net
+DOMAIN-SUFFIX,outlook.com
+
+IP-CIDR,52.112.0.0/14
+IP-CIDR,52.111.0.0/16
+
+DOMAIN-KEYWORD,dyson
