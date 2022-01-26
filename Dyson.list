@@ -2,6 +2,9 @@ DOMAIN-SUFFIX,microsoftstream.com
 DOMAIN-SUFFIX,concursolutions.com
 DOMAIN-SUFFIX,myworkday.com 
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msauthimages.net
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,vo.msecnd.net
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msftauthimages.net
 DOMAIN-SUFFIX,microsoftazuread-sso.com 
@@ -27,8 +30,10 @@ DOMAIN-SUFFIX,cybereason.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,jamfcloud.com
 DOMAIN-SUFFIX,duosecurity.com
+DOMAIN-SUFFIX,monitor.azure.com
 
 IP-CIDR,52.112.0.0/14
 IP-CIDR,52.111.0.0/16
 
 DOMAIN-KEYWORD,dyson
+DOMAIN-KEYWORD,microsoft
