@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,duosecurity.com
 DOMAIN-SUFFIX,monitor.azure.com
 DOMAIN-SUFFIX,omegacdn.net
 DOMAIN-SUFFIX,t-msedge.net
+DOMAIN-SUFFIX,wechat.com
 
 IP-CIDR,52.112.0.0/14
 IP-CIDR,52.111.0.0/16
