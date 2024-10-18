@@ -1,17 +1,6 @@
-# Yahoo
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,techcrunch.com
-
-# Apple
-DOMAIN-SUFFIX,icloud.com
-
-# Wikipedia
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikipedia.org
-
 # LinkedIn
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 
-#Github
-DOMAIN-SUFFIX,github.com
+#Cathay
+DOMAIN-SUFFIX,cathaypacific.com
