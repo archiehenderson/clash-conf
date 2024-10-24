@@ -4,3 +4,21 @@ DOMAIN-SUFFIX,licdn.com
 
 #Cathay
 DOMAIN-SUFFIX,cathaypacific.com
+
+# Google
+DOMAIN-SUFFIX,google.com,🚀 Default Traffic
+DOMAIN-SUFFIX,googleapis.com,🚀 Default Traffic
+
+# Facebook
+DOMAIN-SUFFIX,facebook.com,🚀 Default Traffic
+
+# Stripe
+DOMAIN-SUFFIX,stripe.com,🚀 Default Traffic
+DOMAIN-SUFFIX,stripecdn.com,🚀 Default Traffic
+
+# Tiktok
+DOMAIN-SUFFIX,tiktokv.eu,🚀 Default Traffic
+
+# Wix
+DOMAIN-SUFFIX,wixstatic.com,🚀 Default Traffic
+DOMAIN-SUFFIX,wix.com,🚀 Default Traffic
