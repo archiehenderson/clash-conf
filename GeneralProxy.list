@@ -6,19 +6,22 @@ DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,cathaypacific.com
 
 # Google
-DOMAIN-SUFFIX,google.com,🚀 Default Traffic
-DOMAIN-SUFFIX,googleapis.com,🚀 Default Traffic
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
 
 # Facebook
-DOMAIN-SUFFIX,facebook.com,🚀 Default Traffic
+DOMAIN-SUFFIX,facebook.com
 
 # Stripe
-DOMAIN-SUFFIX,stripe.com,🚀 Default Traffic
-DOMAIN-SUFFIX,stripecdn.com,🚀 Default Traffic
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripecdn.com
 
 # Tiktok
-DOMAIN-SUFFIX,tiktokv.eu,🚀 Default Traffic
+DOMAIN-SUFFIX,tiktokv.eu
 
 # Wix
-DOMAIN-SUFFIX,wixstatic.com,🚀 Default Traffic
-DOMAIN-SUFFIX,wix.com,🚀 Default Traffic
+DOMAIN-SUFFIX,wixstatic.com
+DOMAIN-SUFFIX,wix.com
+
+# SSRDog
+DOMAIN-SUFFIX,urlapi-dodo.cyou
