@@ -25,3 +25,10 @@ DOMAIN-SUFFIX,wix.com
 
 # SSRDog
 DOMAIN-SUFFIX,urlapi-dodo.cyou
+
+# Xe.com
+DOMAIN-SUFFIX,xe.com
+
+# Cloudfront
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudfront.com
