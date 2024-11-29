@@ -32,3 +32,10 @@ DOMAIN-SUFFIX,xe.com
 # Cloudfront
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudfront.com
+
+# Line
+DOMAIN-SUFFIX,line.me
+
+# Synology
+DOMAIN-SUFFIX,synology.com
+SRC-IP-CIDR,192.168.2.2
