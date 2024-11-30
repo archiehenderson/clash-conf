@@ -38,4 +38,4 @@ DOMAIN-SUFFIX,line.me
 
 # Synology
 DOMAIN-SUFFIX,synology.com
-SRC-IP-CIDR,192.168.2.2
+SRC-IP-CIDR,192.168.2.2/32
