@@ -42,3 +42,6 @@ SRC-IP-CIDR,192.168.2.2/32
 
 # The Times
 DOMAIN-SUFFIX,thetimes.com
+
+# Omron
+DOMAIN-SUFFIX,ohiomron.eu
