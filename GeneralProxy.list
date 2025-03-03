@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,ohiomron.eu
 
 # WhatsApp
 DOMAIN-SUFFIX,whatsapp.net
+
+# ChatGPT
+DOMAIN-SUFFIX,oaiusercontent.com
